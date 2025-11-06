@@ -1,0 +1,7 @@
+streamlit
+groq
+pandas
+psycopg2-binary
+selenium
+beautifulsoup4
+webdriver-manager
